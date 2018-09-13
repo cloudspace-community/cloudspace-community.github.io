@@ -1,2 +1,3 @@
-# cloudspace-community.github.io
-The official website for CloudSpace Community, VIT-AP
+# CloudSpace Community Website
+
+_The official website for CloudSpace Community, VIT-AP_
